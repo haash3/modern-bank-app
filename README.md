@@ -1,2 +1,2 @@
 # modern-bank-app
--using react
+-using react and tailwind
